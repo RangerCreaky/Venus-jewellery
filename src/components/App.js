@@ -1,8 +1,11 @@
 import React from 'react';
+import Navbar from './Navbar';
 
 const App = () => {
     return (
-        <div className='bg-blue-700'> App </div>
+        <div className='scroll-smooth'>
+        <Navbar />
+        </div>
     )
 }
 
