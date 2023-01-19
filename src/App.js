@@ -1,10 +1,12 @@
 import React from 'react';
-import Navbar from './Navbar';
+import Carousel from './components/Carousel';
+import Navbar from './components/Navbar';
 
 const App = () => {
     return (
         <div className='scroll-smooth'>
         <Navbar />
+        <Carousel />
         </div>
     )
 }
