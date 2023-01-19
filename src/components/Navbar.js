@@ -1,7 +1,6 @@
 const Navbar = () => {
   return (
     <>
-
       <header class="text-[#D2AC47] body-font bg-gray-900 fixed w-full">
         <div class="container mx-auto flex flex-wrap p-3 flex-col md:flex-row items-center">
           <a
