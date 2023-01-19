@@ -4,7 +4,7 @@ const Navbar = () => {
       <header class="text-[#D2AC47] body-font bg-gray-900 fixed w-full">
         <div class="container mx-auto flex flex-wrap p-3 flex-col md:flex-row items-center">
           <a
-            href="#"
+            href="/"
             class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0"
           >
             <div className="flex bg-white p-2 rounded-lg">
